@@ -104,10 +104,10 @@ Mengenali batas pada bentuk gambar
     b. Vertical Edges or along the y-axis.
 
         kernelx = np.array([[1, 0, -1], [1, 0, -1], [1, 0, -1]])
-    kernely = np.array([[1, 1 , 1], [0, 0, 0], [-1, -1, -1]])
+        kernely = np.array([[1, 1 , 1], [0, 0, 0], [-1, -1, -1]])
 
-    img_prewittx = cv2.filter2D(gray, -1, kernelx)
-    img_prewitty= cv2.filter2D(gray, -1, kernely)
+        img_prewittx = cv2.filter2D(gray, -1, kernelx)
+        img_prewitty= cv2.filter2D(gray, -1, kernely)
 
 
 3. Sobel
@@ -130,7 +130,7 @@ Mengenali batas pada bentuk gambar
     3. Non-maximum Suppresion
     4. Hysteresis Thresholding
 
-        edges = cv2.Canny(gray,100,200)
+            edges = cv2.Canny(gray,100,200)
 
 ## Implementasi Haar Cascade
 Semua yang telah dipelajari tadi dapat diimplementasikan pada penggunaan simple image processing.
