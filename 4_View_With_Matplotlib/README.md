@@ -83,6 +83,7 @@ plt.show()
 ```
 
 Output:
+
 <img src="subplot.png" height="300em" align="center" alt="Lena Subplot" title="Lena Subplot"/>
 
 
