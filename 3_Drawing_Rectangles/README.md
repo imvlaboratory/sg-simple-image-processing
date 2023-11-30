@@ -45,6 +45,6 @@ Fungsi `cv2.imshow()` menunjukkan gambar `src` melalui sebuah window baru yang t
 
 Fungsi `cv2.waitKey()` digunakan untuk membaca input keyboard dari pengguna, angka integer di dalamnya menentukan waktu delay yang dipasang untuk menutup window.
 
-Fungsi `cv2.destroyAllWindows()` digunakan untuk menutup semua windows yang dibuka oleh OpenCV, fungsi ini diperlukan dalam menutup windows yang terbuka karena apabila dilakukan secara manual (menutup window dengan tombol silang yang ada), terkadang window akan stuck dan hang yang memerlukan restart kernel jupyter untuk kembali dapat dijalankan.
+Fungsi `cv2.destroyAllWindows()` digunakan untuk menutup semua windows yang dibuka oleh OpenCV, fungsi ini diperlukan dalam menutup windows yang terbuka karena apabila dilakukan secara manual (menutup window dengan tombol silang yang ada), terkadang window akan stuck dan hang yang memerlukan restart kernel Jupyter untuk kembali dapat dijalankan.
 
 ### Good Luck! 🍀
