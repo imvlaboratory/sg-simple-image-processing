@@ -55,6 +55,7 @@ plt.show()
 ```
 
 Output:
+
 <img src="lena_rgb.png" height="400em" align="center" alt="Lena RGB" title="Lena RGB"/>
 
 ## Plot Lebih dari Satu Gambar
