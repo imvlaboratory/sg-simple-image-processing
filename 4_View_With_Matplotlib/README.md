@@ -12,7 +12,7 @@ Gunakan kode di bawah untuk menambahkan Matplotlib ke dalam projek, kali ini han
 import matplotlib.pytplot as plt
 ```
 
-## Basic Matplotlib syntax
+## Basic Matplotlib Syntax
 
 Serupa dengan OpenCV, Matplotlib menampilkan gambar yang sebenarnya adalah NumPy array, maka dari itu konversi dari gambar asli ke dalam NumPy array perlu dilakukan sebelum memunculkannya ke Jupyter Notebook. Dalam konteks ini kita akan lanjut menggunakan OpenCV dalam konversi gambar ke NumPy array.
 

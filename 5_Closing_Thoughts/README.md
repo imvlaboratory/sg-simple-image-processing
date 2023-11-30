@@ -4,7 +4,7 @@ Materi yang telah disampaikan dari awal pertemuan hingga akhir pertemuan Study G
 
 Semoga ilmu yang telah disampaikan oleh setiap asisten bermanfaat untuk kedepannya.
 
-## Beberapa Materi Lainnya
+## Beberapa Materi Lain
 
 ### [OpenCV Video Capture](https://docs.opencv.org/3.4/d8/dfe/classcv_1_1VideoCapture.html)
 
