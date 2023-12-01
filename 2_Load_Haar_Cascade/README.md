@@ -18,7 +18,7 @@ classifier = cv2.CascadeClassifier(file_path)
 Untuk melakukan deteksi wajah, dapat menggunakan metode `detectMultiscale()`, berikut kodenya:
 
 ```python
-detect = cv2.classifier.detectMultiScale(
+detect = classifier.detectMultiScale(
     src,            # Parameter sumber gambar
     scaleFactor,    # Parameter seberapa besar gambar dikecilkan saat deteksi
     minNeighbors,   # Berapa banyak tetangga disekitar kotak detektor untuk menyatakan hasil deteksi
